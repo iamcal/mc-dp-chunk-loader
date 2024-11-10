@@ -1,13 +1,13 @@
 {
 	"display": {
 		"icon": {
-			"id": "minecraft:lodestone"
+			"id": "minecraft:respawn_anchor"
 		},
-		"title": "Chunk Loaders     ",
+		"title": "Cal's Chunk Loaders     ",
 		"description": [
 			"",
 			{
-				"text": "Drop a nether star above a lodestone to make a chunk loader (AKA a loadstone) which keeps the chunk it's in loaded until it is broken.",
+				"text": "Drop an eye of ender above a respawn anchor to make a chunk loader which keeps the chunk it's in, all all 8 surrounding chunks, loaded until it is broken.",
 				"color": "gold"
 			}
 		],
